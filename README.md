@@ -10,16 +10,14 @@
 ---
 
 ## 🚀 Progetti in evidenza
-- **Menu Queen** — repo personale di prova / esercizi  
+- **Menu Queen** — Menu Ristorante&Pizzeria QUEEN 
   👉 <https://github.com/floshdev/menu-queen>
 
 - **pikeyvault** — CLI password vault (Python, scrypt + Fernet) *(in arrivo)*  
   👉 <https://github.com/floshdev/pikeyvault>
 
-- **TheKnife (mirror, read-only)** — progetto universitario (solo vetrina) *(in arrivo)*  
+- **TheKnife (mirror, read-only)** — progetto universitario (solo vetrina) 
   👉 link al fork/mirror quando pronto
-
-> 💡 I progetti “in arrivo” compariranno appena pubblico le repo. Li troverai anche tra i **Pinned** del profilo.
 
 ---
 
@@ -30,4 +28,4 @@
 ---
 
 ## 📬 Contatti
-Per ora scrivimi qui su GitHub. (LinkedIn/Email arriveranno più avanti.)
+Per ora scrivimi qui su GitHub. 
