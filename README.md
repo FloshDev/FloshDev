@@ -1,4 +1,4 @@
-# Hey, sono Flavio 👋
+# Hey, sono Flosh 👋
 
 **Java/Python • CLI & backend • Raspberry Pi tinkerer • Applied AI/automation**
 
