@@ -1,8 +1,8 @@
 # floshdev
 
-Informatica @ Insubria. Costruisco tool da terminale, 
+Informatica @ Insubria. Costruisco tool da terminale,
 piccoli backend e automazioni pratiche.
-Uso il Raspberry Pi come ambiente di sviluppo e test per 
+Uso il Raspberry Pi come ambiente di sviluppo e test per
 progetti self-hosted.
 
 Stack: Java · Python · C/C++ · SQL · Bash · Linux · Git
@@ -21,4 +21,4 @@ Menu digitale con QR code per ristorante.
 
 ---
 
-floshdev@[tua mail] · aiutohub.it
+floshdev@ciani.flavio04@gmail.com
