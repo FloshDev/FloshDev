@@ -11,14 +11,11 @@ Stack: Java · Python · C/C++ · SQL · Bash · Linux · Git
 
 ## Progetti
 
-**pikeyvault**
-Password vault da terminale. Python, scrypt + Fernet.
-→ github.com/floshdev/pikeyvault
-
 **menu-queen**
 Menu digitale con QR code per ristorante.
 → github.com/floshdev/menu-queen
 
 ---
+
 
 floshdev@ciani.flavio04@gmail.com
