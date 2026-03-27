@@ -1,21 +1,19 @@
-# floshdev
+# Hi, I'm Flavio
 
-Informatica @ Insubria. Costruisco tool da terminale,
-piccoli backend e automazioni pratiche.
-Uso il Raspberry Pi come ambiente di sviluppo e test per
-progetti self-hosted.
+CS student @ Università dell'Insubria.
+I build terminal tools, small backends and practical automations.
 
-Stack: Java · Python · C/C++ · SQL · Bash · Linux · Git
+**Stack:** Java · Python · C/C++ · SQL · Bash · Linux · Git
 
 ---
 
-## Progetti
+## Projects
 
-**menu-queen**
-Menu digitale con QR code per ristorante.
-→ github.com/floshdev/menu-queen
+**PyDF Tool**
+CLI + TUI for OCR and compression of scanned PDFs on macOS.
+→ Work in progress
 
 ---
 
+ciani.flavio04@gmail.com
 
-floshdev@ciani.flavio04@gmail.com
