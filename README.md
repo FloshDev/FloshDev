@@ -3,7 +3,7 @@
 CS student @ Università dell'Insubria.
 I build terminal tools, small backends and practical automations.
 
-**Stack:** Java · Python · C/C++ · SQL · Bash · Linux · Git
+**Stack:** Java · Python · C/C++ · SQL · Bash · Git
 
 ---
 
